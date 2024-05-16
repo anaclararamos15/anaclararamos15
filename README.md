@@ -13,4 +13,4 @@ anaclaramosreis70@gmail.com
 @anaclararamos
 
 ![]()
-(https://media1.tenor.com/m/bmPxViFRuz8AAAAC/tchau.gif)
+https://media1.tenor.com/m/bmPxViFRuz8AAAAC/tchau.gif
