@@ -2,7 +2,7 @@
 
 Meu nome é Ana Clara 
 
-- Estou estudando na [Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem  JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
@@ -13,4 +13,4 @@ anaclaramosreis70@gmail.com
 @anaclararamos
 
 ![]()
-https://media.tenor.com/dQ_v0I6RCWMAAAAM/sz%C3%A9gyenl%C5%91s.gif
+(https://media.tenor.com/dQ_v0I6RCWMAAAAM/sz%C3%A9gyenl%C5%91s.gif)
